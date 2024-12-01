@@ -17,7 +17,7 @@ This project includes a Python- based password strenght checker. It uses the fil
 - Check if a password is part of the 10,000 most common passwords.
 - Evaluates password strenght based on lenght and complexity.
 
-####Note
+#### Note
 The password list is for demonstration purposes only and should not be used in productionor or for critical applications.
 
 ## Contact
